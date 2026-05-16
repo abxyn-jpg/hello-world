@@ -1,2 +1,2 @@
 # hello-world
-aku pengen belajar sesuatu di git hub -_-
+apakah ada yang bisa mengajariku sesuatu tentang git hub? 
